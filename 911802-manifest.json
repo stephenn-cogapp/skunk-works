@@ -84,7 +84,8 @@
 ]
 }
 ],
-"annotations": {
+"annotations": [
+{
 "id": "https://ngagov.ddev.site/node/911802/pages/text/1",
 "type": "AnnotationPage",
 "items": [
@@ -130,6 +131,7 @@
 }
 ]
 }
+]
 }
 ]
 }
