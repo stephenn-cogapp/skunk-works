@@ -113,17 +113,32 @@
 "id": "https://ngagov.ddev.site/node/911802/pages/text/1/annotation/1",
 "type": "Annotation",
 "motivation": "commenting",
+"body": [],
+"target": "https://ngagov.ddev.site/node/911802/canvases/1#xywh=200,200,200,200"
+},
+{
+"id": "https://ngagov.ddev.site/node/911802/pages/text/1/annotation/2",
+"type": "Annotation",
+"motivation": "commenting",
 "body": [
 {
 "type": "TextualBody",
-"value": "",
+"value": "<p>text only</p>",
 "language": "en",
 "position-hint": "west",
 "format": "text/plain"
+}
+],
+"target": "https://ngagov.ddev.site/node/911802/canvases/1#xywh=200,200,200,200"
 },
 {
+"id": "https://ngagov.ddev.site/node/911802/pages/text/1/annotation/3",
+"type": "Annotation",
+"motivation": "commenting",
+"body": [
+{
 "type": "Image",
-"id": "",
+"id": "/sites/default/files/2025-01/screenshot_from_2022-09-30_14-29-06_0.png",
 "format": "image/jpeg"
 }
 ],
