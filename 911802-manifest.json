@@ -99,7 +99,7 @@
 "value": "<p>snippet text</p>",
 "language": "en",
 "position-hint": "west",
-"format": "text/plain"
+"format": "text/html"
 },
 {
 "type": "Image",
@@ -126,7 +126,7 @@
 "value": "<p>text only</p>",
 "language": "en",
 "position-hint": "west",
-"format": "text/plain"
+"format": "text/html"
 }
 ],
 "target": "https://ngagov.ddev.site/node/911802/canvases/1#xywh=200,200,200,200"
